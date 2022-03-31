@@ -1,0 +1,1 @@
+g++ -Wall tarea6.cpp stack.cpp -o test && ./test
